@@ -11,3 +11,6 @@ A Pablo le cuesta manejar la frustración, pero es consciente de ello y trabaja 
 En este momento no estoy con el mayor entusiasmo del mundo a la hora de estudiar control y manejo de versiones con GIT,
 pero tengo que recordar, que lo que hago es para sacar a mi familia a delante, sacarnos de este paós complicaso y no 
 quier vivir de la caridad de mi familia o de la de mi mujer
+
+Estamos a full con los aprendizajes, solo que me caigo de sueño a la hora de afrontar algo no tan motivante para mi, 
+espero poder salir ademante con todo esto 
