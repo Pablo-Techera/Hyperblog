@@ -4,5 +4,6 @@ cosa que hace 2 días parecía imposible, la verdad que cuesta volver a estudiar
 a travez del estudio. Espero que se me pase rápido y pueda superar la pereza porque quiero salir de pobre.
 Todos estos cambios fueron creados por su servidor Pablo.
 Tiene ejemplos diversos dentro de git y github
+Aprender tecnología no tiene limite de edad
 
 Espero que no les moleste leer esto si es que alguien lo llega a leer alguna que otra vez
